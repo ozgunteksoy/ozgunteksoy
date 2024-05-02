@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Express**
 
-- 🤝 I’m looking for help with **v**
+- 🤝 I’m looking for help with **Shopping in the cinema**
 
 - 📫 How to reach me **ozgunteksoy@gmail.com**
 
