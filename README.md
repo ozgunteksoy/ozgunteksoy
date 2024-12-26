@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Özgün Teksoy</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate Data Science and frontend Developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Shopping in the cinema**
 
-- 🌱 I’m currently learning **React, Express**
+- 🌱 I’m currently learning **Data Science, AI Learning, **
 
 - 🤝 I’m looking for help with **Shopping in the cinema**
 
